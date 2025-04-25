@@ -263,4 +263,13 @@ func (e *Enumeration) submitProvidedNames() {
 			})
 		}
 	}
+
+
+
+
+}
+
+// Add this to enum.go
+func (e *Enumeration) Output() <-chan *requests.Output {
+    return e.output
 }
