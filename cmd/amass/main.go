@@ -32,10 +32,10 @@ import (
 
 	"github.com/caffix/service"
 	"github.com/fatih/color"
-	"github.com/owasp-amass/amass/v4/datasrcs"
-	"github.com/owasp-amass/amass/v4/format"
-	amassnet "github.com/owasp-amass/amass/v4/net"
-	"github.com/owasp-amass/amass/v4/systems"
+	"github.com/MajedRE/amass/v4/datasrcs"
+	"github.com/MajedRE/amass/v4/format"
+	amassnet "github.com/MajedRE/amass/v4/net"
+	"github.com/MajedRE/amass/v4/systems"
 	"github.com/owasp-amass/config/config"
 )
 

@@ -19,7 +19,7 @@ import (
 
 	"github.com/caffix/stringset"
 	"github.com/miekg/dns"
-	amassdns "github.com/owasp-amass/amass/v4/net/dns"
+	amassdns "github.com/MajedRE/amass/v4/net/dns"
 	"github.com/owasp-amass/resolve"
 )
 

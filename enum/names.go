@@ -10,7 +10,7 @@ import (
 
 	"github.com/caffix/pipeline"
 	"github.com/caffix/stringset"
-	"github.com/owasp-amass/amass/v4/requests"
+	"github.com/MajedRE/amass/v4/requests"
 	"github.com/owasp-amass/asset-db/types"
 	oam "github.com/owasp-amass/open-asset-model"
 	"github.com/owasp-amass/open-asset-model/domain"

@@ -13,9 +13,9 @@ import (
 
 	"github.com/caffix/service"
 	luaurl "github.com/cjoudrey/gluaurl"
-	"github.com/owasp-amass/amass/v4/net/dns"
-	"github.com/owasp-amass/amass/v4/requests"
-	"github.com/owasp-amass/amass/v4/systems"
+	"github.com/MajedRE/amass/v4/net/dns"
+	"github.com/MajedRE/amass/v4/requests"
+	"github.com/MajedRE/amass/v4/systems"
 	"github.com/owasp-amass/config/config"
 	lua "github.com/yuin/gopher-lua"
 	luajson "layeh.com/gopher-json"

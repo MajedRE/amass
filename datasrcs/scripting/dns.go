@@ -14,9 +14,9 @@ import (
 	"time"
 
 	"github.com/miekg/dns"
-	amassnet "github.com/owasp-amass/amass/v4/net"
-	amassdns "github.com/owasp-amass/amass/v4/net/dns"
-	"github.com/owasp-amass/amass/v4/requests"
+	amassnet "github.com/MajedRE/amass/v4/net"
+	amassdns "github.com/MajedRE/amass/v4/net/dns"
+	"github.com/MajedRE/amass/v4/requests"
 	"github.com/owasp-amass/resolve"
 	bf "github.com/tylertreat/BoomFilters"
 	lua "github.com/yuin/gopher-lua"

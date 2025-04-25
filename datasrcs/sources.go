@@ -9,8 +9,8 @@ import (
 
 	"github.com/caffix/service"
 	"github.com/caffix/stringset"
-	"github.com/owasp-amass/amass/v4/datasrcs/scripting"
-	"github.com/owasp-amass/amass/v4/systems"
+	"github.com/MajedRE/amass/v4/datasrcs/scripting"
+	"github.com/MajedRE/amass/v4/systems"
 	"github.com/owasp-amass/config/config"
 )
 

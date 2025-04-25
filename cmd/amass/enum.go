@@ -25,11 +25,11 @@ import (
 	"github.com/caffix/netmap"
 	"github.com/caffix/stringset"
 	"github.com/fatih/color"
-	"github.com/owasp-amass/amass/v4/datasrcs"
-	"github.com/owasp-amass/amass/v4/enum"
-	"github.com/owasp-amass/amass/v4/format"
-	"github.com/owasp-amass/amass/v4/resources"
-	"github.com/owasp-amass/amass/v4/systems"
+	"github.com/MajedRE/amass/v4/datasrcs"
+	"github.com/MajedRE/amass/v4/enum"
+	"github.com/MajedRE/amass/v4/format"
+	"github.com/MajedRE/amass/v4/resources"
+	"github.com/MajedRE/amass/v4/systems"
 	"github.com/owasp-amass/config/config"
 )
 

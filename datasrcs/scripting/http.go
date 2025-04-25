@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/owasp-amass/amass/v4/net/dns"
-	"github.com/owasp-amass/amass/v4/net/http"
+	"github.com/MajedRE/amass/v4/net/dns"
+	"github.com/MajedRE/amass/v4/net/http"
 	lua "github.com/yuin/gopher-lua"
 )
 

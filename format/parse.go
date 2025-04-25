@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	amassnet "github.com/owasp-amass/amass/v4/net"
+	amassnet "github.com/MajedRE/amass/v4/net"
 )
 
 // ParseStrings implements the flag.Value interface.
