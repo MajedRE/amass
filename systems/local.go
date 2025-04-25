@@ -37,6 +37,13 @@ type LocalSystem struct {
 	allSources        chan chan []service.Service
 }
 
+// Modify the LocalSystem struct
+type LocalSystem struct {
+    Config  *config.Config
+    EventBus *eventbus.EventBus // Change from eventBus to EventBus
+    // ... keep other fields unchanged
+}
+
 // NewLocalSystem returns an initialized LocalSystem object.
 func NewLocalSystem(cfg *config.Config) (*LocalSystem, error) {
 	if err := cfg.CheckSettings(); err != nil {
